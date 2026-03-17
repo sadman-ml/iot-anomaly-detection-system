@@ -12,11 +12,11 @@ In big factories, if a machine breaks suddenly, it costs a lot of money. My proj
 ## Tools & Technologies Used
 - **Language:** Python 🐍
 - **Environment:** Google Colab
-- **Libraries:** Pandas (Data), Scikit-Learn (ML), Seaborn (Graphs)
+- **Libraries:** Pandas (Data), Scikit-Learn (ML), Seaborn and Matplotlib (Graphs)
 - **Algorithms:** - **Isolation Forest** (to find anomalies)
   - **Random Forest** (to classify failure types)
 
-## Project Steps (How I did it)
+## How I did it, right????
 1. **Data Cleaning:** Loaded the sensor data and prepared it for the model.
 2. **Feature Engineering:** Calculated "Rolling Averages" to understand the machine's behavior over time.
 3. **Visualization:** Created Heatmaps and Scatter plots to see the relationship between sensors.
@@ -31,3 +31,6 @@ In big factories, if a machine breaks suddenly, it costs a lot of money. My proj
 
 ---
 **Developed by:** Sadman Ahmed  
+#
+⭐ **If you find this project helpful, please give it a star!**
+#
